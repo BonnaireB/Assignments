@@ -90,8 +90,9 @@ I would try to be proactive and communicate with the team to come up with a plan
 ### Running the program 
 
 1. Clone this repository
-2. Open a terminal at the root of the project
-3. Run the following command : 
+2. Edit the config.json file depending on your operating system
+3. Open a terminal at the root of the project
+4. Run the following command : 
 ```
 python3 "Task 4/task_four.py"
 ```
